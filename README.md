@@ -1,15 +1,33 @@
 # A Curated List of Awesome Virtual Try-on (VTON) Research
 A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on (VTON).
 
-- [Image-based (2D) Virtual Try-on](#Image-based-2D-Virtual-Try-on)
-- [3D Virtual Try-on](#3D-virtual-try-on)
-- [Multi-Pose Guided Virtual Try-on](#Multi-Pose-Guided-Virtual-Try-on)
-- [Video Virtual Try-on](#Video-Virtual-Try-on)
-- [Non-clothing Virtual Try-on](#non-clothing-virtual-try-on)
-- [Pose-Guided Human Synthesis](#pose-guided-human-synthesis)
-- [Datasets for Virtual Try-on](#Datasets-for-Virtual-Try-on)
-- [Related Conference Workshops](#Related-Conference-Workshops)
-- [Related Repositories](#Related-Repositories)
+- [A Curated List of Awesome Virtual Try-on (VTON) Research](#a-curated-list-of-awesome-virtual-try-on-vton-research)
+  - [Image-based (2D) Virtual Try-on](#image-based-2d-virtual-try-on)
+      - [ACCV 2020](#accv-2020)
+      - [ECCV 2020](#eccv-2020)
+      - [CVPR 2020](#cvpr-2020)
+      - [CVPRW 2020](#cvprw-2020)
+      - [ICCV 2019](#iccv-2019)
+      - [ICCVW 2019](#iccvw-2019)
+      - [ECCV 2018](#eccv-2018)
+      - [CVPR 2018](#cvpr-2018)
+      - [Others](#others)
+  - [3D Virtual Try-on](#3d-virtual-try-on)
+      - [NeurIPS 2020](#neurips-2020)
+      - [ECCV 2020](#eccv-2020-1)
+      - [CVPR 2020](#cvpr-2020-1)
+      - [ICCV 2019](#iccv-2019-1)
+      - [ECCV 2018](#eccv-2018-1)
+      - [CVPR 2018](#cvpr-2018-1)
+      - [Others](#others-1)
+  - [Multi-Pose Guided Virtual Try-on](#multi-pose-guided-virtual-try-on)
+  - [Video Virtual Try-on](#video-virtual-try-on)
+  - [Non-clothing Virtual Try-on](#non-clothing-virtual-try-on)
+  - [Pose-Guided Human Synthesis](#pose-guided-human-synthesis)
+  - [Datasets for Virtual Try-on](#datasets-for-virtual-try-on)
+  - [Related Conference Workshops](#related-conference-workshops)
+  - [Related Repositories](#related-repositories)
+      - [Pull requests are welcome!](#pull-requests-are-welcome)
 
 
 ## Image-based (2D) Virtual Try-on
@@ -68,6 +86,8 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 ## 3D Virtual Try-on
 
+  #### NeurIPS 2020
+  - Human Parsing Based Texture Transfer from Single Image to 3D Human via Cross-View Consistency - [Code](https://github.com/zhaofang0627/HPBTT)
   #### ECCV 2020
   - BCNet: Learning Body and Cloth Shape from A Single Image - [Paper](https://arxiv.org/pdf/2004.00214.pdf), [Code/Data](https://github.com/jby1993/BCNet)
   - GAN-based Garment Generation Using Sewing Pattern Images - [Paper/Code/Model/Data](https://gamma.umd.edu/researchdirections/virtualtryon/garmentgeneration/)
